@@ -8,6 +8,8 @@
 
 Codex 使用 OpenAI Responses API 协议，DeepSeek 只提供 Chat Completions API。本项目在本地启动一个协议翻译代理，在两者之间无缝转换。
 
+改为
+
 ## 快速开始
 
 ### 1. 安装 Node.js
